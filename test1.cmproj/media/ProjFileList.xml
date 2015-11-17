@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ProjFilesArray</key>
+	<array>
+		<dict>
+			<key>DestPath</key>
+			<string>/Users/droberts/repo/lfs-test/test.cmproj/recordings/1447788298.487577/Rec 11-17-15 1.trec</string>
+			<key>SourceInfoDict</key>
+			<dict>
+				<key>SourceInfoDict_SrcAliasData</key>
+				<data>
+				AAAAAAIOAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADNyLLaSCsAAAWd0I4TUmVjIDExLTE3LTE1IDEu
+				dHJlYwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAABZ3QkNJw2dQAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAETE0NDc3ODgyOTgu
+				NDg3NTc3AAAQAAgAAM3I+SoAAAARAAgAANJxLjQAAAAB
+				ABwFndCOBZ3O4AWdzt8Fnc6QAAhP6AAJjDAAA2ucAAIA
+				bU1hY2ludG9zaCBIRDpVc2VyczoAZHJvYmVydHM6AHJl
+				cG86AGxmcy10ZXN0OgB0ZXN0LmNtcHJvajoAcmVjb3Jk
+				aW5nczoAMTQ0Nzc4ODI5OC40ODc1Nzc6AFJlYyAxMS0x
+				Ny0xNSAxLnRyZWMAAA4AKAATAFIAZQBjACAAMQAxAC0A
+				MQA3AC0AMQA1ACAAMQAuAHQAcgBlAGMADwAaAAwATQBh
+				AGMAaQBuAHQAbwBzAGgAIABIAEQAEgBZVXNlcnMvZHJv
+				YmVydHMvcmVwby9sZnMtdGVzdC90ZXN0LmNtcHJvai9y
+				ZWNvcmRpbmdzLzE0NDc3ODgyOTguNDg3NTc3L1JlYyAx
+				MS0xNy0xNSAxLnRyZWMAABMAAS8AABUAAgAP//8AAA==
+				</data>
+				<key>SourceInfoDict_SrcPath</key>
+				<string>/Users/droberts/repo/lfs-test/test.cmproj/recordings/1447788298.487577/Rec 11-17-15 1.trec</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
